@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
+
+# macOS files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Original bootcamp exercise templates
+Week-01-Python/
